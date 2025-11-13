@@ -1,21 +1,74 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>fuzzy-invention</title>
-    <meta name="description" content="fuzzy-invention — starter index page" />
-  </head>
-  <body>
-    <header>
-      <h1>fuzzy-invention</h1>
-      <p>Welcome to the fuzzy-invention repository.</p>
-    </header>
-    <main>
-      <p>This is a minimal index.html added by GitHub Copilot.</p>
-    </main>
-    <footer>
-      <small>Generated on 2025-11-13 by @copilot</small>
-    </footer>
-  </body>
-</html>
+<section class="challenges">
+  <h2>🧪 Community Challenges</h2>
+  <p>Open-ended prompts to spark wild experiments. Submit your take, remix someone else's, or invent something entirely new.</p>
+  <div class="challenge-gallery">
+    <div class="challenge-card">
+      <h3>🌌 Challenge: Cosmic UI</h3>
+      <p>Design a user interface inspired by galaxies, black holes, or quantum weirdness.</p>
+      <a href="https://github.com/your-repo/issues/new?title=Cosmic+UI+Challenge" class="submit">Submit Your Idea</a>
+    </div>
+    <div class="challenge-card">
+      <h3>🎭 Challenge: Emotion Machines</h3>
+      <p>Build a prototype that reacts to mood, tone, or facial expression — playful or poetic.</p>
+      <a href="https://github.com/your-repo/issues/new?title=Emotion+Machines+Challenge" class="submit">Submit Your Idea</a>
+    </div>
+    <div class="challenge-card">
+      <h3>🧬 Challenge: Nature x Code</h3>
+      <p>Explore ecosystems, cycles, or organic patterns through generative code.</p>
+      <a href="https://github.com/your-repo/issues/new?title=Nature+Code+Challenge" class="submit">Submit Your Idea</a>
+    </div>
+  </div>
+</section>
+
+
+challenges {
+  padding: 3rem 2rem;
+  background-color: #0D0D0D;
+  text-align: center;
+}
+
+.challenge-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.challenge-card {
+  background-color: #1a1a1a;
+  border-radius: 12px;
+  padding: 1.5rem;
+  border: 2px solid #333;
+  transition: border-color 0.3s;
+}
+
+.challenge-card:hover {
+  border-color: #A259FF;
+}
+
+.challenge-card h3 {
+  font-family: 'Poppins', sans-serif;
+  color: #FF6B6B;
+}
+
+.challenge-card p {
+  color: #ccc;
+  margin-bottom: 1rem;
+}
+
+.submit {
+  display: inline-block;
+  background-color: #2EC4B6;
+  color: #0D0D0D;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.submit:hover {
+  background-color: #A259FF;
+  color: #fff;
+}
+
+
