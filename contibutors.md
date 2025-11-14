@@ -111,3 +111,9 @@ Contribute ideas, code, design, docs, or community support — and your profile 
 
 ✨ **Fork → Play → Share → Collaborate.**  
 Bring your weirdest, most playful ideas — they belong here!
+<div id="badge-progress">
+  <h3>🌟 Badge Progress</h3>
+  <div class="progress-container">
+    <div class="progress-bar" style="width:60%;">3 / 5 Badges</div>
+  </div>
+</div>
