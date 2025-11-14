@@ -80,8 +80,39 @@
         <p>Code artist and pixel alchemist. Makes interactive web magic with clicks and keystrokes.</p>
         <a href="#" class="gh-link">GitHub ↗</a>
       </div>
-    </div>
-  </section>
+    </div>.join-us {
+  background: #f0f8ff;
+  border: 2px dashed #4CAF50;
+  text-align: center;
+}
+
+.join-us img {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 0.75rem;
+}
+
+.cta-buttons {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.cta {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: #4CAF50;
+  color: #fff;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+
+.cta:hover {
+  background: #388E3C;
+}
+---
 
   <!-- Roadmap -->
   <section class="roadmap">
@@ -139,8 +170,130 @@
     </div>
   </section>
 
-  <!-- Footer -->
-  <footer>
+  <section id="contributors">
+  <h2>Contributors</h2>
+  <div class="profiles">
+
+    <!-- Example contributor card -->
+    <div class="profile">
+      <img src="assets/rico.jpeg" alt="Rico Enrique avatar">
+      <h3>Rico Enrique</h3>
+      <p>Creative technologist, playful builder.</p>
+      <div class="badges">
+        <img src="assets/badges/builder.svg" alt="Prototype Builder badge">
+        <img src="assets/badges/designer.svg" alt="Design Tweaker badge">
+      </div>
+    </div>
+
+    <!-- Add <section id="contributors">
+  <h2>Contributors</h2>
+  <div class="profiles">
+
+    <!-- Existing contributor cards go here -->
+
+    <!-- Join Us card -->
+    <div class="profile join-us">
+      <img src="assets/logo.png" alt="Fuzzy Invention logo">
+      <h3>Join Us!</h3>
+      <p>Dreamer, coder, artist, or explorer — there’s room for you here.</p>
+      <div class="cta-buttons">
+        <a href="https://github.com/your-repo/fork" class="cta">🔀 Fork the Repo</a>
+        <a href="https://github.com/your-repo/issues" class="cta">💡 Submit an Idea</a>
+        <a href="https://github.com/your-repo/pulls" class="cta">📤 Open a Pull Request</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+more contributor cards here -->
+    <div class="profile">
+      <img src="assets/stevie.jpg" alt="Stevie avatar">
+      <h3>Stevie</h3>
+      <p>CSS wizard and accessibility ally.</p>
+      <div class="badges">
+        <img src="assets/badges/access.svg" alt="Accessibility Ally badge">
+      </div>
+    </div>
+
+    <div class="profile">
+      <img src="assets/jaz.svg" alt="Jaz avatar">
+      <h3>Jaz</h3>
+      <p>Roadmapper and community connector.</p>
+      <div class="badges">
+        <img src="assets/badges/roadmap.svg" alt="Roadmapper badge">
+        <img src="assets/badges/link.svg" alt="Connector badge">
+      </div>
+    </div>
+
+  </div>
+</section>
+
+  #contributors {
+  padding: 2rem;
+  background: #f9f9f9;
+  text-align: center;
+}
+
+#contributors h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.profiles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.profile {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1rem;
+  width: 220px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+.profile:hover {
+  transform: translateY(-4px);
+}
+
+.profile img {
+  width: 100%;
+  border-radius: 50%;
+  margin-bottom: 0.75rem;
+}
+
+.profile h3 {
+  margin: 0.5rem 0;
+  font-size: 1.2rem;
+}
+
+.profile p {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.badges {
+  margin-top: 0.75rem;
+}
+
+.badges img {
+  width: 24px;
+  height: 24px;
+  margin: 0 2px;
+  vertical-align: middle;
+  transition: transform 0.2s ease;
+}
+
+.badges img:hover {
+  transform: scale(1.2);
+}
+<!-- Footer -->
+  
+
+<footer>
     <p>Made with ❤️ by explorers. MIT License.</p>
   </footer>
 </body>
