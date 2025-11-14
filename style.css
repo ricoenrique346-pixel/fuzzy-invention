@@ -1,0 +1,20 @@
+/* Earned Badges strip */
+.contributor-badges {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.contributor-badges img {
+  width: 60px;
+  transition: transform 0.3s ease, filter 0.3s ease;
+  filter: drop-shadow(0 0 6px #33ff99);
+  border-radius: 8px;
+}
+
+.contributor-badges img:hover {
+  transform: scale(1.2) rotate(-5deg);
+  filter: drop-shadow(0 0 15px #cc99ff) brightness(1.3);
+}
