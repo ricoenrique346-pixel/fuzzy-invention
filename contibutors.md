@@ -1,30 +1,6 @@
 
-## 👥 Contributor Highlights
+## 👥 Contributor Highlight
 
-### ✨ Rico Enrique
-![Rico's Contributor Card](image-link-here)
-**Role:** Creative Technologist  
-**GitHub:** [@ricoenrique346-pixel](https://github.com/ricoenrique346-pixel)
-
----
-
-### ✨ Stevie
-![Stevie's Contributor Card](image-link-here)
-**Role:** Art + AI Explorer  
-**GitHub:** [GitHub Profile](#)
-
----
-
-### ✨ Jaz
-![Jaz's Contributor Card](image-link-here)
-**Role:** Code Artist & Pixel Alchemist  
-**GitHub:** [GitHub Profile](#)
-# ✨ Contributors of Fuzzy Invention
-
-Welcome to the **Hall of Fame** — where imagination meets collaboration.  
-Every contributor here is a spark in our sandbox of playful prototypes and creative experiments.
-
----
 
 ## 🧑‍🚀 Rico Enrique
 ![Rico's Contributor Card](assets/images/contributor-cards/rico-card.png)  
@@ -37,6 +13,20 @@ Every contributor here is a spark in our sandbox of playful prototypes and creat
 - 🛠️ Built the site structure + style guide
 - 🏆 Lead architect of the badge system
 
+<div class="contributor-card">
+  <h3>Rico Enrique</h3>
+  <div class="contributor-badges">
+    <img src="badges/idea-spark.svg" alt="Idea Spark"/>
+    <img src="badges/prototype-builder.svg" alt="Prototype Builder"/>
+    <img src="badges/design-wizard.svg" alt="Design Wizard"/>
+  </div>
+  
+  <!-- Progress bar -->
+  <div class="badge-progress">
+    <div class="progress-bar"></div>
+  </div>
+</div>
+
 ---
 
 ## 🎨 Stevie
@@ -48,6 +38,19 @@ Every contributor here is a spark in our sandbox of playful prototypes and creat
 - 🖼️ Created “Emotion Machines” prototype
 - 🧪 Led the Cosmic UI challenge
 - 🎭 Explored mood-reactive interfaces
+<div class="contributor-card">
+  <h3>stevie</h3>
+  <div class="contributor-badges">
+    <img src="badges/idea-spark.svg" alt="Idea Spark"/>
+    <img src="badges/prototype-builder.svg" alt="Prototype Builder"/>
+    <img src="badges/design-wizard.svg" alt="Design Wizard"/>
+  </div>
+  
+  <!-- Progress bar -->
+  <div class="badge-progress">
+    <div class="progress-bar"></div>
+  </div>
+</div>
 
 ---
 
@@ -60,6 +63,19 @@ Every contributor here is a spark in our sandbox of playful prototypes and creat
 - 🧬 Developed “Nitrogen Cycle” visualization
 - 🪄 Contributed to Leap Motion experiments
 - 🧩 Helped refine the contributor card layout
+<div class="contributor-card">
+  <h3>Jaz</h3>
+  <div class="contributor-badges">
+    <img src="badges/idea-spark.svg" alt="Idea Spark"/>
+    <img src="badges/prototype-builder.svg" alt="Prototype Builder"/>
+    <img src="badges/design-wizard.svg" alt="Design Wizard"/>
+  </div>
+  
+  <!-- Progress bar -->
+  <div class="badge-progress">
+    <div class="progress-bar"></div>
+  </div>
+</div>
 
 ---
 
@@ -71,7 +87,7 @@ We’re designing a glowing badge system to celebrate contributions like:
 - 📚 **Documentarian** — for clear guides
 - 🌐 **Community Connector** — for collaboration
 
-Badges will be SVG icons stored in `/badges/` and contributors can embed them in their profile cards.
+
 **Earned Badges:**
 <div class="contributor-badges">
   <img src="badges/idea-spark.svg" alt="Idea Spark"/>
