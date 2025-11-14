@@ -1,3 +1,37 @@
+/* Badge Progression Bar */
+#badge-progress {
+  text-align: center;
+  margin-top: 2rem;
+  color: #fff;
+}
+
+#badge-progress h3 {
+  font-size: 1.5rem;
+  color: #33ff99;
+  text-shadow: 0 0 10px #cc99ff;
+  margin-bottom: 1rem;
+}
+
+.progress-container {
+  width: 80%;
+  max-width: 400px;
+  margin: 0 auto;
+  background: #222;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0 10px #33ff99;
+}
+
+.progress-bar {
+  height: 30px;
+  background: linear-gradient(90deg, #33ff99, #cc99ff);
+  text-align: center;
+  line-height: 30px;
+  font-weight: bold;
+  color: #000;
+  transition: width 0.5s ease;
+}
+
 /* Earned Badges strip */
 .contributor-badges {
   display: flex;
