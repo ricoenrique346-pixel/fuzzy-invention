@@ -71,6 +71,12 @@ We’re designing a glowing badge system to celebrate contributions like:
 - 🌐 **Community Connector** — for collaboration
 
 Badges will be SVG icons stored in `/badges/` and contributors can embed them in their profile cards.
+**Earned Badges:**
+<div class="contributor-badges">
+  <img src="badges/idea-spark.svg" alt="Idea Spark"/>
+  <img src="badges/prototype-builder.svg" alt="Prototype Builder"/>
+  <img src="badges/design-wizard.svg" alt="Design Wizard"/>
+</div>
 
 ---
 
