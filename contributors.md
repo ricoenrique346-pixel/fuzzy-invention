@@ -13,13 +13,6 @@ We’re designing a glowing badge system to celebrate contributions like:
 -✨ **How to earn badges:**  
 Contribute ideas, code, design, docs, or community support — and your profile will light up with achievements!
 
-**Earned Badges:**
-<div class="contributor-badges">
-  <img src="badges/idea-spark.svg" alt="Idea Spark"/>
-  <img src="badges/prototype-builder.svg" alt="Prototype Builder"/>
-  <img src="badges/design-wizard.svg" alt="Design Wizard"/>
-</div>
-</div> 
 ---
 
 ## 🧑‍🚀 Rico Enrique
@@ -38,14 +31,7 @@ Contribute ideas, code, design, docs, or community support — and your profile 
 ![Prototype Builder](badges/prototype-builder.svg)
 ![Design Wizard](badges/design-wizard.svg)
 
-  <!-- Progress bar -->
-  <div class="badge-progress">
-    <div class="progress-bar"></div>
-  </div>
-</div>
-
 ---
-
 ## 🎨 Stevie
 ![Stevie's Contributor Card](assets/images/contributor-cards/stevie-card.png)  
 **Role:** Art + AI Explorer  
@@ -55,22 +41,13 @@ Contribute ideas, code, design, docs, or community support — and your profile 
 - 🖼️ Created “Emotion Machines” prototype
 - 🧪 Led the Cosmic UI challenge
 - 🎭 Explored mood-reactive interfaces
-<div class="contributor-card">
-  <h3>stevie</h3>
-  <div class="contributor-badges">
-    <img src="badges/idea-spark.svg" alt="Idea Spark"/>
-    <img src="badges/prototype-builder.svg" alt="Prototype Builder"/>
-    <img src="badges/design-wizard.svg" alt="Design Wizard"/>
-  </div>
-  
-  <!-- Progress bar -->
-  <div class="badge-progress">
-    <div class="progress-bar"></div>
-  </div>
-</div>
+
+**Earned Badges:**
+![Idea Spark](badges/idea-spark.svg)
+![Design Wizard](badges/design-wizard.svg)
+
 
 ---
-
 ## 🧪 Jaz
 ![Jaz's Contributor Card](assets/images/contributor-cards/jaz-card.png)  
 **Role:** Code Artist & Pixel Alchemist  
@@ -80,19 +57,11 @@ Contribute ideas, code, design, docs, or community support — and your profile 
 - 🧬 Developed “Nitrogen Cycle” visualization
 - 🪄 Contributed to Leap Motion experiments
 - 🧩 Helped refine the contributor card layout
-<div class="contributor-card">
-  <h3>Jaz</h3>
-  <div class="contributor-badges">
-    <img src="badges/idea-spark.svg" alt="Idea Spark"/>
-    <img src="badges/prototype-builder.svg" alt="Prototype Builder"/>
-    <img src="badges/design-wizard.svg" alt="Design Wizard"/>
-  </div>
-  
-  <!-- Progress bar -->
-  <div class="badge-progress">
-    <div class="progress-bar"></div>
-  </div>
-</div>
+
+**Earned Badges:**
+![Prototype Builder](badges/prototype-builder.svg)
+![Documentarian](badges/documentarian.svg)
+![Community Connector](badges/community-connector.svg)
 
 ---
 
@@ -119,13 +88,12 @@ Here’s what each one means:
 
 ---
 
-
 -✨ **Fork → Play → Share → Collaborate.**  
 Bring your weirdest, most playful ideas — they belong here!
-
-<div id="badge-progress">
-  <h3>🌟 Badge Progress</h3>
-  <div class="progress-container">
-    <div class="progress-bar" style="width:60%;">3 / 5 Badges</div>
-  </div>
 </div>
+
+<div class="contributor-badges">
+  <img src="badges/idea-spark.svg" alt="Idea Spark"/>
+  <img src="badges/prototype-builder.svg" alt="Prototype Builder"/>
+</div>
+
