@@ -33,14 +33,11 @@ Contribute ideas, code, design, docs, or community support — and your profile 
 - 🛠️ Built the site structure + style guide
 - 🏆 Lead architect of the badge system
 
-<div class="contributor-card">
-  <h3>Rico Enrique</h3>
-  <div class="contributor-badges">
-    <img src="badges/idea-spark.svg" alt="Idea Spark"/>
-    <img src="badges/prototype-builder.svg" alt="Prototype Builder"/>
-    <img src="badges/design-wizard.svg" alt="Design Wizard"/>
-  </div>
-  
+**Earned Badges:**
+![Idea Spark](badges/idea-spark.svg)
+![Prototype Builder](badges/prototype-builder.svg)
+![Design Wizard](badges/design-wizard.svg)
+
   <!-- Progress bar -->
   <div class="badge-progress">
     <div class="progress-bar"></div>
