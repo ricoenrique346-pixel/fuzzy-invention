@@ -15,8 +15,13 @@ Contribute ideas, code, design, docs, or community support — and your profile 
 
 ---
 
+# ✨ Contributors of Fuzzy Invention
+
+---
+
 ## 🧑‍🚀 Rico Enrique
-![Rico's Contributor Card](assets/images/contributor-cards/rico-card.png)  
+<img src="assets/images/contributor-cards/rico-card.png" alt="Rico's Contributor Card" width="200"/>
+
 **Role:** Creative Technologist  
 **GitHub:** [@ricoenrique346-pixel](https://github.com/ricoenrique346-pixel)
 
@@ -27,29 +32,32 @@ Contribute ideas, code, design, docs, or community support — and your profile 
 - 🏆 Lead architect of the badge system
 
 **Earned Badges:**
-![Idea Spark](badges/idea-spark.svg)
-![Prototype Builder](badges/prototype-builder.svg)
-![Design Wizard](badges/design-wizard.svg)
+![Idea Spark](assets/badges/idea-spark.svg)
+![Prototype Builder](assets/badges/prototype-builder.svg)
+![Design Wizard](assets/badges/design-wizard.svg)
 
 ---
+
 ## 🎨 Stevie
-![Stevie's Contributor Card](assets/images/contributor-cards/stevie-card.png)  
+<img src="assets/images/contributor-cards/stevie-card.png" alt="Stevie's Contributor Card" width="200"/>
+
 **Role:** Art + AI Explorer  
 **GitHub:** [GitHub Profile](#)
 
 **Achievements:**
 - 🖼️ Created “Emotion Machines” prototype
 - 🧪 Led the Cosmic UI challenge
-- 🎭 Explored mood-reactive interfaces
+- 🎭 Explored mood‑reactive interfaces
 
 **Earned Badges:**
-![Idea Spark](badges/idea-spark.svg)
-![Design Wizard](badges/design-wizard.svg)
-
+![Idea Spark](assets/badges/idea-spark.svg)
+![Design Wizard](assets/badges/design-wizard.svg)
 
 ---
+
 ## 🧪 Jaz
-![Jaz's Contributor Card](assets/images/contributor-cards/jaz-card.png)  
+<img src="assets/images/contributor-cards/jaz-card.png" alt="Jaz's Contributor Card" width="200"/>
+
 **Role:** Code Artist & Pixel Alchemist  
 **GitHub:** [GitHub Profile](#)
 
@@ -59,9 +67,9 @@ Contribute ideas, code, design, docs, or community support — and your profile 
 - 🧩 Helped refine the contributor card layout
 
 **Earned Badges:**
-![Prototype Builder](badges/prototype-builder.svg)
-![Documentarian](badges/documentarian.svg)
-![Community Connector](badges/community-connector.svg)
+![Prototype Builder](assets/badges/prototype-builder.svg)
+![Documentarian](assets/badges/documentarian.svg)
+![Community Connector](assets/badges/community-connector.svg)
 
 ---
 
@@ -87,13 +95,3 @@ Here’s what each one means:
   Celebrates those who collaborate, connect contributors, or expand the project’s reach.
 
 ---
-
--✨ **Fork → Play → Share → Collaborate.**  
-Bring your weirdest, most playful ideas — they belong here!
-</div>
-
-<div class="contributor-badges">
-  <img src="badges/idea-spark.svg" alt="Idea Spark"/>
-  <img src="badges/prototype-builder.svg" alt="Prototype Builder"/>
-</div>
-
