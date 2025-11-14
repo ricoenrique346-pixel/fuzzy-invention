@@ -38,3 +38,43 @@ Optional screenshots can be stored in `assets/screenshot.png`.
 - **Python 3:**  
   ```bash
   python -m http.server 8000
+
+
+---
+
+## 🏅 Contributor Badges  
+
+Celebrate contributions with fun badges! Add them to your profile card in `index.html` by including the badge icons from `assets/badges/`.
+
+| Badge Name            | Icon (placeholder)           | Awarded For |
+|-----------------------|------------------------------|-------------|
+| **Prototype Builder** | `assets/badges/builder.svg`  | Added a new prototype card to the gallery |
+| **Design Tweaker**    | `assets/badges/designer.svg` | Improved CSS, layout, or visual identity |
+| **Challenge Solver**  | `assets/badges/solver.svg`   | Completed or contributed to a community challenge |
+| **Accessibility Ally**| `assets/badges/access.svg`   | Enhanced alt text, focus states, or contrast |
+| **Roadmapper**        | `assets/badges/roadmap.svg`  | Suggested or documented future project ideas |
+| **Connector**         | `assets/badges/link.svg`     | Added meaningful external links or resources |
+| **Showcase Star**     | `assets/badges/star.svg`     | Shared a preview screenshot or demo |
+| **Collab Champion**   | `assets/badges/collab.svg`   | Helped another contributor or reviewed PRs |
+
+### Example Usage in a Contributor Card
+```html
+<div class="profile">
+  <img src="assets/rico.jpeg" alt="Rico Enrique avatar">
+  <h3>Rico Enrique</h3>
+  <p>Creative technologist, playful builder.</p>
+  <div class="badges">
+    <img src="assets/badges/builder.svg" alt="Prototype Builder badge">
+    <img src="assets/badges/designer.svg" alt="Design Tweaker badge">
+  </div>
+</div>
+
+.badges img {
+  width: 24px;
+  height: 24px;
+  margin-right: 4px;
+  vertical-align: middle;
+}
+.badges img:hover {
+  transform: scale(1.1);
+}
