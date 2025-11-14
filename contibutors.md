@@ -1,6 +1,26 @@
 
 ## 👥 Contributor Highlight
 
+# 🏅 Badge System (Coming Soon!)
+We’re designing a glowing badge system to celebrate contributions like:
+- 💡 **Idea Spark** — for sharing new concepts
+- 🔧 **Prototype Builder** — for coding experiments
+- 🖌️ **Design Wizard** — for visual flair
+- 📚 **Documentarian** — for clear guides
+- 🌐 **Community Connector** — for collaboration
+
+---
+-✨ **How to earn badges:**  
+Contribute ideas, code, design, docs, or community support — and your profile will light up with achievements!
+
+**Earned Badges:**
+<div class="contributor-badges">
+  <img src="badges/idea-spark.svg" alt="Idea Spark"/>
+  <img src="badges/prototype-builder.svg" alt="Prototype Builder"/>
+  <img src="badges/design-wizard.svg" alt="Design Wizard"/>
+</div>
+</div> 
+---
 
 ## 🧑‍🚀 Rico Enrique
 ![Rico's Contributor Card](assets/images/contributor-cards/rico-card.png)  
@@ -79,23 +99,6 @@
 
 ---
 
-# 🏅 Badge System (Coming Soon!)
-We’re designing a glowing badge system to celebrate contributions like:
-- 💡 **Idea Spark** — for sharing new concepts
-- 🔧 **Prototype Builder** — for coding experiments
-- 🖌️ **Design Wizard** — for visual flair
-- 📚 **Documentarian** — for clear guides
-- 🌐 **Community Connector** — for collaboration
-
-
-**Earned Badges:**
-<div class="contributor-badges">
-  <img src="badges/idea-spark.svg" alt="Idea Spark"/>
-  <img src="badges/prototype-builder.svg" alt="Prototype Builder"/>
-  <img src="badges/design-wizard.svg" alt="Design Wizard"/>
-</div>
-
----
 
 # 🏅 Badge Legend
 
@@ -119,14 +122,10 @@ Here’s what each one means:
 
 ---
 
-✨ **How to earn badges:**  
-Contribute ideas, code, design, docs, or community support — and your profile will light up with achievements!
 
-
----
-
-✨ **Fork → Play → Share → Collaborate.**  
+-✨ **Fork → Play → Share → Collaborate.**  
 Bring your weirdest, most playful ideas — they belong here!
+
 <div id="badge-progress">
   <h3>🌟 Badge Progress</h3>
   <div class="progress-container">
