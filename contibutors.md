@@ -1,3 +1,4 @@
+
 ## 👥 Contributor Highlights
 
 ### ✨ Rico Enrique
@@ -77,6 +78,34 @@ Badges will be SVG icons stored in `/badges/` and contributors can embed them in
   <img src="badges/prototype-builder.svg" alt="Prototype Builder"/>
   <img src="badges/design-wizard.svg" alt="Design Wizard"/>
 </div>
+
+---
+
+# 🏅 Badge Legend
+
+Badges are glowing icons that celebrate different types of contributions.  
+Here’s what each one means:
+
+- 💡 **Idea Spark**  
+  Awarded for sharing new concepts, brainstorming sessions, or creative prompts that inspire prototypes.
+
+- 🔧 **Prototype Builder**  
+  Given to contributors who code, experiment, or build working prototypes that push ideas forward.
+
+- 🖌️ **Design Wizard**  
+  Earned by those who add visual flair, branding, or UI/UX magic to the project.
+
+- 📚 **Documentarian**  
+  Recognizes contributors who write clear guides, onboarding docs, or tutorials that help others join in.
+
+- 🌐 **Community Connector**  
+  Celebrates those who collaborate, connect contributors, or expand the project’s reach.
+
+---
+
+✨ **How to earn badges:**  
+Contribute ideas, code, design, docs, or community support — and your profile will light up with achievements!
+
 
 ---
 
