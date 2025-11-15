@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <radialGradient id="gearGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#99ccff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0066ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- Glow background -->
+  <circle cx="60" cy="60" r="55" fill="url(#gearGlow)" />
+  
+  <!-- Gear shape -->
+  <circle cx="60" cy="60" r="25" fill="#0066ff" stroke="#99ccff" stroke-width="3"/>
+  <path d="M60 35 L65 25 L75 30 L80 20 L90 30 L85 40 L95 45 L90 55 L100 60 L90 65 L95 75 L85 80 L90 90 L80 100 L75 90 L65 95 L60 85 L55 95 L45 90 L40 100 L30 90 L35 80 L25 75 L30 65 L20 60 L30 55 L25 45 L35 40 L30 30 L40 20 L45 30 L55 25 Z"
+        fill="#0066ff" stroke="#99ccff" stroke-width="2"/>
+  
+  <!-- Wrench overlay -->
+  <path d="M40 80 L70 50 Q75 45 80 50 L60 70 Z" fill="#cccccc" stroke="#ffffff" stroke-width="2"/>
+</svg>
